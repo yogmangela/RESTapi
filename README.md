@@ -1,7 +1,8 @@
 # RESTapi
 
-Install: Docker, Git and Docker-compose and assicn permission
-- https://docs.docker.com/compose/install/
+Install: Docker, Git and Docker-compose and assign permission
+
+-- https://docs.docker.com/compose/install/
 
 -- add ec2-user to docker group
 
