@@ -1,14 +1,5 @@
-# RESTapi
+# AWS API Gateway and DynamoDB
 
-Install: Docker, Git and Docker-compose and assign permission
+## How to use this repo
 
--- https://docs.docker.com/compose/install/
-
--- add ec2-user to docker group
-
-```
- sudo groupadd docker
- sudo gpasswd -a username docker
- sudo service docker restart 
- 
-```
+- Steps 1 : 
