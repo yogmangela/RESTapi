@@ -1,7 +1,7 @@
 provider "aws" {
-  access_key =  //"add your access_key"
-  secret_key =  //"add your secret_key"
-  region     =  //"add your region"
+  access_key =   //"add your access_key"
+  secret_key =   //"add your secret_key"
+  region     =  "eu-west-2" //"add your region"
   version    = "~> 2.0"
 }
 
