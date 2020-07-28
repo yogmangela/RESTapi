@@ -36,7 +36,7 @@ terraform plan
 terraform apply  - yes
 ```
 
-- Step 4 : You will have API and DynamoDB service up
+### Step 4 : You will have API and DynamoDB service up
 
 - - copy ROLE ARN: arn:aws:iam::xxxxxxxx:role/test-role
 
@@ -84,7 +84,9 @@ Execution Role: add your Role created step 4.
 ![GitHub Logo](/images/AWS_APIGateway.png)
 
 
-- Step 6 : Click "Integration Request"  >> expand "apping Templates" >> click on "Add mapping template" type ```application/json``` in the text field and save and "Yes, secure this integration" 
+### Step 6 : Add mapping fields:
+
+ Click "Integration Request"  >> expand "apping Templates" >> click on "Add mapping template" type ```application/json``` in the text field and save and "Yes, secure this integration" 
 
 Add below:
 
@@ -121,19 +123,21 @@ add below sample record.
 }
 ```
 
-- Step 7 : TO Deploy API >> Click Action and "Deploy API"
+### Step 7 : TO Deploy API >> Click Action and "Deploy API"
+
 ![GitHub Logo](/images/Deploy_API.PNG)
 
 copy  END point: 
 
 Invoke URL: https://asdakhfsdsdohhfadf-api.eu-west-2.amazonaws.com/Production/mydemoresource/{noteId}
 
+### Step 8 : Install https://www.postman.com/
+
 Use Postman to test your POST API:
 
 Add URI to POST:
 
 add Authorization: add your credentials.
-
 
 under body : add below json record to test
 
