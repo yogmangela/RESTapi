@@ -1,5 +1,9 @@
 # AWS API Gateway and DynamoDB
 
+# High level arcitect diagram
+
+![GitHub Logo](/images/RESTapi_HighOverview.png)
+
 ## How to use this repo
 
 ### Steps 1 : Clone repository using below git command:
@@ -7,7 +11,8 @@
 ```
 git clone https://github.com/yogmangela/RESTapi.git
 ```
-and got main.tf
+
+and go to main.tf
 
 ### Step 2 : Add your secrete_key, Access_key and aws_region
 
