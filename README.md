@@ -131,7 +131,7 @@ copy  END point:
 
 Invoke URL: https://asdakhfsdsdohhfadf-api.eu-west-2.amazonaws.com/Production/mydemoresource/{noteId}
 
-### Step 8 : Install https://www.postman.com/
+### Step 8 : Install [Postman](https://www.postman.com/)
 
 Use Postman to test your POST API:
 
