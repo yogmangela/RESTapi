@@ -2,7 +2,7 @@
 
 # High level architect diagram
 
-![GitHub Logo](/images/RESTapi_HighOverview.png)
+![REST API](/images/RESTapi_HighOverview.png)
 
 ## How to use this repo
 
@@ -81,7 +81,7 @@ HTTP Method: POST
 Action: PutItem
 Execution Role: add your Role created step 4.
 
-![GitHub Logo](/images/AWS_APIGateway.png)
+![AWS API Gateway](/images/AWS_APIGateway.png)
 
 
 ### Step 6 : Add mapping fields:
@@ -125,7 +125,7 @@ add below sample record.
 
 ### Step 7 : TO Deploy API >> Click Action and "Deploy API"
 
-![GitHub Logo](/images/Deploy_API.PNG)
+![Deploy API](/images/Deploy_API.PNG)
 
 copy  END point: 
 
@@ -151,7 +151,7 @@ under body : add below json record to test
 
 Click SEND to see record in DynamoDB:
 
-![GitHub Logo](/images/DynamoRecords.PNG)
+![DenamoDB](/images/DynamoRecords.PNG)
 
 
 Attaching AWS Cognito to CURL POST request direct from commandline. Create user pool/ token.
