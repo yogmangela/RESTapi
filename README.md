@@ -1,6 +1,6 @@
 # AWS API Gateway and DynamoDB
 
-# High level arcitect diagram
+# High level architect diagram
 
 ![GitHub Logo](/images/RESTapi_HighOverview.png)
 
