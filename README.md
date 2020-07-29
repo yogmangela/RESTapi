@@ -81,7 +81,7 @@ HTTP Method: POST
 Action: PutItem
 Execution Role: add your Role created step 4.
 
-![AWS API Gateway](/images/AWS_APIGateway.png)
+![AWS API Gateway](/images/AWS_APIGateway.PNG)
 
 
 ### Step 6 : Add mapping fields:
