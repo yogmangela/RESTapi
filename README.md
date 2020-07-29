@@ -125,7 +125,9 @@ add below sample record.
 
 ### Step 7 : TO Deploy API >> Click Action and "Deploy API"
 
+
 ![Deploy API](/images/Deploy_API.PNG)
+
 
 copy  END point: 
 
